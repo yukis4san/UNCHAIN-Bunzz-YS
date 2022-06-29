@@ -3,7 +3,7 @@
 ここでは、アプリケーションサイドの各画面とDatabaseを作成していきます。
 
 
-Databaseの作成
+**Databaseの作成**
 
 今回はType（Table）を２つ用意しています
 
