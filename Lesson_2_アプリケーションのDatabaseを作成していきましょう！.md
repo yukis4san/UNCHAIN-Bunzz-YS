@@ -5,43 +5,18 @@
 
 **Databaseの作成**
 
-今回はType（Table）を２つ用意しています
+今回はOptionSetを1つと、Type（Table）を２つ用意しています
 
+OptinoSet
+User_type
+![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_1.png)
+
+Database
 User type（Table）
 ![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_1.png)
 
 Contents type（Table）
 ![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_2.png)
-
-
-**作成する画面一覧**
-
-1. ユーザー登録/ログイン
-2. マーケットプレイス
-3. NFTコンテンツページ
-4. NFTコンテンツ作成ページ
-5. マイページ
-6. マイNFTコンテンツページ
-
-各画面の作成方法について説明していきます。
-
-**1. ユーザー登録/ログイン**
-![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_3.png)
-
-**2. マーケットプレイス**
-![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_4.png)
-
-**3. NFTコンテンツページ**
-![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_5.png)
-
-**4. NFTコンテンツ作成ページ**
-![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_6.png)
-
-**5. マイページ**
-![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_7.png)
-
-**6. マイNFTコンテンツページ**
-![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_8.png)
 
 
 
