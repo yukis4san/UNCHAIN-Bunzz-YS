@@ -8,10 +8,12 @@
 今回はOptionSetを1つと、Type（Table）を２つ用意しています
 
 OptinoSet
+
 User_type
 ![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_1.png)
 
 Database
+
 User type（Table）
 ![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_1.png)
 
