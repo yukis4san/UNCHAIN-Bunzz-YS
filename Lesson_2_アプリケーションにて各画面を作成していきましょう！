@@ -5,8 +5,13 @@
 
 **Databaseの作成**
 
-今回はType（Table）を２つ用意しています
+今回はOptionSetを1つとType（Table）を２つ用意しています
 
+Option set
+user_type
+![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_9.png)
+
+Database
 User type（Table）
 ![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_1.png)
 
