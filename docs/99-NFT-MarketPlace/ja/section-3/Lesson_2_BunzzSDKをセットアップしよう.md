@@ -4,22 +4,8 @@
 
 **今回行うこと**
 
-1.  BunzzからDapp IDとAPI Keyを取得
-2.  Bubbleの各画面にBunzzSDKを設定
+1.  Bubbleの各画面にBunzzSDKを設定
 
-### **Bunzz SDKをインストール**
-
-まず、「Bunzz SDK」をインストールするため、画面左側の「Plugins」をクリックします
-
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FeHcERHf2r.png?alt=media)
-
-画面右上の「+Add plugins」をクリックします
-
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FotoQvifLz.png?alt=media)
-
-「Bunzz」と検索をかけると「Bunzz SDK」が出てきますので、「Install」をクリックします
-
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FsP-lezP74.png?alt=media)
 
 ### **Bunzz SDKを各画面に設定**
 
