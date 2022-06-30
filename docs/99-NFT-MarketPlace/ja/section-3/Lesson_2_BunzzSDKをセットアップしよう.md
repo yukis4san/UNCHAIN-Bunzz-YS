@@ -1,6 +1,6 @@
 ### 👩‍💻 **DappのID/API Keyをアプリ側に設定**
 
-ここでは、BunzzSDKのプラグインをBubbleにインストールして、アプリケーションサイドに設定していきます。
+ここでは、BunzzSDKをアプリケーションサイドにセットアップしていきます。
 
 **今回行うこと**
 
@@ -35,15 +35,7 @@ Setupが完了したら、addressを取得するのですが、Bunzzの方で「
 
 ![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2Ffmf5ZGIxk.png?alt=media)
 
-*   name（好きなトークン名を入力）
-*   symbol（好きなシンボル名を入力）
-*   baseTokenURI（先ほど取得したData API root URLをペーストし以下のように変更）
-    *   https://test-nft0011.bubbleapps.io/version-test/api/1.1/obj
-    *   [https://test-nft0011.bubbleapps.io/version-test/api/1.1/contents/](https://test-nft0011.bubbleapps.io/version-test/api/1.1/contents/)
 
-※BubbleのData APIは、有料プランから使える機能となっております
-
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FOOPkJ9Y95.png?alt=media)
 
 ### 🙋‍♂️ 質問する
 
