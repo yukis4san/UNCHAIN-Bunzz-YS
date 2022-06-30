@@ -4,25 +4,9 @@
 
 **実装する画面**
 
-*   NFTコンテンツ作成ページ
 *   マイNFTコンテンツページ
-*   NFTコンテンツページ
 
-### **NFTコンテンツ作成ページ**
 
-「Create」ボタンがクリックされたときに、NFTを新たに作成・発行を行いますが、その際にBunzzの「Update action」を設定します
-
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FOn-bUrPRh.png?alt=media)
-
-次に「Module Name」に「NFT(ERC721)」、「Function Name」に「mint」を入力します
-
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FEtvfC9So6.png?alt=media)
-
-最後に「address」にSetup時に取得している「Signer Address」、「tokenId」にコンテンツの「id」を設定して完了です（この際にBubbleで生成されるuniqueIdを利用しないよう注意してください）
-
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FMdAYoddDP.png?alt=media)
-
-これでNFTを新たに作成できました！
 
 ### **マイNFTコンテンツページ**
 
@@ -63,24 +47,6 @@ Bubbleの画面に戻り、「to」にBunzzで取得したマーケットプレ�
 ![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FvLnT54Pm8.png?alt=media)
 
 これでマーケットプレイスに公開されました！
-
-### **NFTコンテンツページ**
-
-最後にマーケットプレイスからNFTコンテンツを購入する方法をご紹介します
-
-「BUY NOW」ボタンがクリックされたときに、NFTコンテンツの購入を行いますが、その際にBunzzの「Update action」を設定します
-
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FPSeDj_lnX.png?alt=media)
-
-次に「Module Name」に「Simple Marketplace (For NFT)」、「Function Name」に「buy」を入力します
-
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FJgeaMrQpU.png?alt=media)
-
-最後に「tokenId」に「id」、「value」にコンテンツの「price」をnumberに変換して設定ます
-
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FZ_I_7EWdi.png?alt=media)
-
-これでマーケットプレイスからの「購入」の実装ができました！
 
 
 
