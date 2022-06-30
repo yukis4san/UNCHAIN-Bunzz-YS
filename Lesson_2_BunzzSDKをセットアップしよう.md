@@ -35,6 +35,7 @@ Setupが完了したら、addressを取得するのですが、Bunzzの方で「
 
 ![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2Ffmf5ZGIxk.png?alt=media)
 
+これで各画面におけるセットアップが完了です！
 
 
 ### 🙋‍♂️ 質問する
