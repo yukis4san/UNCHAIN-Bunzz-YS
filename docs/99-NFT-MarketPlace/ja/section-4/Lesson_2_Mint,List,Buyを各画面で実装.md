@@ -15,39 +15,38 @@
 #### **マーケットプレイスへの承認**
 
 まず、「Publish」ボタンがクリックされたときにマーケットプレイスへの「承認」を行いますが、先ほど同様Bunzzの「Update action」を設定します
+![](/public/images/99-NFT-MarketPlace/section-4/4_2_1.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FlrCdwhM62.png?alt=media)
 
 次に「Module Name」に「NFT(ERC721)」、「Function Name」に「approve」を入力します
+![](/public/images/99-NFT-MarketPlace/section-4/4_2_2.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FBaNtKPy1h.png?alt=media)
 
 ここで一度Bunzzの「Dashboard」に戻り、マーケットプレイスのaddressを取得します
+![](/public/images/99-NFT-MarketPlace/section-4/4_2_3.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FY2oZDcU8W.png?alt=media)
 
 Bubbleの画面に戻り、「to」にBunzzで取得したマーケットプレイスの「address」、「tokenId」にコンテンツの「id」を設定して完了です
+![](/public/images/99-NFT-MarketPlace/section-4/4_2_4.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FcPy2euIkt.png?alt=media)
 
 これでマーケットプレイスへの「承認」の実装ができましたので、次に「公開」の実装を行っていきます
 
 #### **マーケットプレイスへの公開**
 
 「承認」で利用したBunzzSDKの「Complete Update Action」のEventを設定し、そのactionに2つ目のBunzzSDKの「Update Action」を設定します
+![](/public/images/99-NFT-MarketPlace/section-4/4_2_5.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2F2wh9wlBe0.png?alt=media)
 
 次に「Module Name」に「Simple Marketplace (For NFT)」、「Function Name」に「list」を入力します
+![](/public/images/99-NFT-MarketPlace/section-4/4_2_6.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FbrewDNnWM.png?alt=media)
 
 最後に「tokenId」に「id」、「price」にコンテンツの「price」をnumberに変換して設定ます
+![](/public/images/99-NFT-MarketPlace/section-4/4_2_7.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FvLnT54Pm8.png?alt=media)
 
 これでマーケットプレイスに公開されました！
-
 
 
 ### 🙋‍♂️ 質問する
