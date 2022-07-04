@@ -12,16 +12,16 @@
 最後にマーケットプレイスからNFTコンテンツを購入する方法をご紹介します
 
 「BUY NOW」ボタンがクリックされたときに、NFTコンテンツの購入を行いますが、その際にBunzzの「Update action」を設定します
+![](/public/images/99-NFT-MarketPlace/section-4/4_3_1.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FPSeDj_lnX.png?alt=media)
 
 次に「Module Name」に「Simple Marketplace (For NFT)」、「Function Name」に「buy」を入力します
+![](/public/images/99-NFT-MarketPlace/section-4/4_3_2.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FJgeaMrQpU.png?alt=media)
 
 最後に「tokenId」に「id」、「value」にコンテンツの「price」をnumberに変換して設定ます
+![](/public/images/99-NFT-MarketPlace/section-4/4_3_3.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FZ_I_7EWdi.png?alt=media)
 
 これでマーケットプレイスからの「購入」の実装ができました！
 
