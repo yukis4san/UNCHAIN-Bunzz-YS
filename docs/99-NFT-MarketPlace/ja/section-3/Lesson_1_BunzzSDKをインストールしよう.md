@@ -10,16 +10,15 @@
 ### **Bunzz SDKをインストール**
 
 まず、「Bunzz SDK」をインストールするため、画面左側の「Plugins」をクリックします
+![](/public/images/99-NFT-MarketPlace/section-3/3_1_1.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FeHcERHf2r.png?alt=media)
 
 画面右上の「+Add plugins」をクリックします
+![](/public/images/99-NFT-MarketPlace/section-3/3_1_2.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FotoQvifLz.png?alt=media)
 
 「Bunzz」と検索をかけると「Bunzz SDK」が出てきますので、「Install」をクリックします
-
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FsP-lezP74.png?alt=media)
+![](/public/images/99-NFT-MarketPlace/section-3/3_1_3.png)
 
 
 ### 🙋‍♂️ 質問する
