@@ -9,15 +9,15 @@
 
 OptinoSet
 
-User_type
+  User_type
 ![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_1.png)
 
 Database
 
-User type（Table）
+  User type（Table）
 ![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_1.png)
 
-Contents type（Table）
+  Contents type（Table）
 ![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_2.png)
 
 
@@ -37,5 +37,5 @@ Contents type（Table）
 
 ---
 
-環境設定が完了したら、次のレッスンに進んでください 🎉
+Databaseの設定が完了したら、次のレッスンに進んでください 🎉
 
