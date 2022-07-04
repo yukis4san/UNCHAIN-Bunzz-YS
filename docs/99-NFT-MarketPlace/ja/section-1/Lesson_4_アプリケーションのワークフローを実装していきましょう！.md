@@ -21,21 +21,14 @@
 この画面では、マーケットプレイスにリストされているコンテンツを閲覧することができるよう実装していきます。
 ![](/public/images/99-NFT-MarketPlace/section-1/1_4_2.png)
 
-**3\. NFTコンテンツページ** 
-この画面では、コンテンツの購入ができるように実装していきます。
+**3\. NFTコンテンツ作成ページ** 
+この画面では、コンテンツのmintができるように実装していきます。
 ![](/public/images/99-NFT-MarketPlace/section-1/1_4_3.png)
 
-**4\. NFTコンテンツ作成ページ** 
-この画面では、コンテンツのmintができるように実装していきます。
+**4\. マイページ** 
+この画面では、自身が保有しているNFTを確認できるように実装していきます。
 ![](/public/images/99-NFT-MarketPlace/section-1/1_4_4.png)
 
-**5\. マイページ** 
-この画面では、自身が保有しているNFTを確認できるように実装していきます。
-![](/public/images/99-NFT-MarketPlace/section-1/1_4_5.png)
-
-**6\. マイNFTコンテンツページ** 
-この画面では、保有しているコンテンツを確認・Listできるように実装していきます。
-![](/public/images/99-NFT-MarketPlace/section-1/1_4_6.png)
 
 ### 🙋‍♂️ 質問する
 
