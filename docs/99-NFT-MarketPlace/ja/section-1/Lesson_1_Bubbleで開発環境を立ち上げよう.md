@@ -32,13 +32,13 @@
 
 「Create a new app」をクリックしてアプリケーションを作成します
 
-![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_1_1.png)
+![](/public/images/99-NFT-MarketPlace/section-1/1_1_1.png)
 <img src="https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FCtrq8gL_K.png?alt=media">
 
 
 各入力項目に入力して「Create a new app」でアプリケーションを作成します。
 
-![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_1_2.png)
+![](/public/images/99-NFT-MarketPlace/section-1/1_1_2.png)
 <img src="https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FU5rbeePo_.png?alt=media">
 
 これでアプリケーションを開発する環境は完了です。
