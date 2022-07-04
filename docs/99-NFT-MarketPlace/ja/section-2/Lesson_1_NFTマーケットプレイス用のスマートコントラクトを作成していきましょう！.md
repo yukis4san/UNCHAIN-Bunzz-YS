@@ -11,33 +11,32 @@
 
 Bunzzの画面に入り「Create Dapp」をクリックしてDappを作成します
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FDz7B1adYR.png?alt=media)
+![](/public/images/99-NFT-MarketPlace/section-2/2_1_1.png)
 
 Dapp Nameに入力して「Create」をクリック
+![](/public/images/99-NFT-MarketPlace/section-2/2_1_2.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FFhsL0izWo.png?alt=media)
 
 Networkを選択して、「Next」をクリック。今回はRopsten Testnetを利用しています
+![](/public/images/99-NFT-MarketPlace/section-2/2_1_3.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2Ff02okitXw.png?alt=media)
 
 今回は「Simple NFT MarketPlace」を選択
+![](/public/images/99-NFT-MarketPlace/section-2/2_1_4.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FANe0IFTjH.png?alt=media)
 
 ここで一度Bubbleに戻り、Settingsタブ→APIタブ→Data API root URLを取得
+![](/public/images/99-NFT-MarketPlace/section-2/2_1_5.png)
 
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FKkImuVmef.png?alt=media)
 
 *   name（好きなトークン名を入力）
 *   symbol（好きなシンボル名を入力）
 *   baseTokenURI（先ほど取得したData API root URLをペーストし以下のように変更）
-    *   https://test-nft0011.bubbleapps.io/version-test/api/1.1/obj
+    *   https://test-nft0011.bubbleapps.io/version-test/api/1.1/ ~~obj~~
     *   [https://test-nft0011.bubbleapps.io/version-test/api/1.1/contents/](https://test-nft0011.bubbleapps.io/version-test/api/1.1/contents/)
 
 ※BubbleのData APIは、有料プランから使える機能となっております
-
-![](https://firebasestorage.googleapis.com/v0/b/hideaki-97c59.appspot.com/o/images%2FhX626yFRzBaLxKfnu0ejxujjhv93%2FOOPkJ9Y95.png?alt=media)
+![](/public/images/99-NFT-MarketPlace/section-2/2_1_6.png)
 
 
 ### 🙋‍♂️ 質問する
