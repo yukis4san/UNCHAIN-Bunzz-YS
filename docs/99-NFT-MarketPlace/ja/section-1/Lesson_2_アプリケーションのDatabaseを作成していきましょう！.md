@@ -10,15 +10,15 @@
 OptinoSet
 
   User_type
-![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_1.png)
+![](/public/images/99-NFT-MarketPlace/section-1/1_2_1.png)
 
 Database
 
   User type（Table）
-![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_1.png)
+![](/public/images/99-NFT-MarketPlace/section-1/1_2_2.png)
 
   Contents type（Table）
-![](/public/images/Bunzz-NFTMarketplace-App/section-1/1_2_2.png)
+![](/public/images/99-NFT-MarketPlace/section-1/1_2_3.png)
 
 
 
