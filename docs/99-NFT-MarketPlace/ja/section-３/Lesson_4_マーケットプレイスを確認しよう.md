@@ -6,6 +6,10 @@
 
 このリンクをGitHubリンクの代わりに Project Completion Form に記入する旨をお伝えください。
 
+画面右上にある「Preview」ボタンから、確認してみましょう！
+
+実装内容を確認できましたら、プレビューリンクをGitHubリンクの代わりに Project Completion Formにご記入ください。
+
 
 ### 🎫 NFT を取得しよう！
 
